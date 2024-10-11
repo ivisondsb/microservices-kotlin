@@ -1,3 +1,3 @@
-package br.com.ivisondsb
+package br.com.ivisondsb.models
 
 class Greeting (val id: Long, val content: String)
